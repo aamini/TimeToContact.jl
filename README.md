@@ -20,6 +20,8 @@ TimeToContact.jl provides an interface for computing the time to contact to a si
 
 
 ### Citation:
+Paper: [Accelerated Convolutions for Efficient Multi-Scale Time to Contact Computation in Julia](https://arxiv.org/abs/1612.08825) <br>
+https://arxiv.org/abs/1612.08825
 > Amini, Alexander, Berthold Horn, and Alan Edelman. "Accelerated Convolutions for Efficient Multi-Scale Time to Contact Computation in Julia." arXiv preprint arXiv:1612.08825 (2016).<br>
 
 #### Bibtex: 
