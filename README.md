@@ -5,7 +5,7 @@
 [![codecov.io](http://codecov.io/github/aamini/TimeToContact.jl/coverage.svg?branch=master)](http://codecov.io/github/aamini/TimeToContact.jl?branch=master)
 -->
 
-# TimeToContact
+# TimeToContact.jl
 ## Time to Contact Compuation in Julia
 Tags: Mobile Computing, Embedded Devices, Machine Vision, Accelerated Convolutions
 
