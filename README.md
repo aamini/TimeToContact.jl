@@ -14,7 +14,7 @@ Link: https://arxiv.org/abs/1612.08825
 ## Overview
 <center>![alt text](anim.gif "Logo Title Text 1")</center>
 
-The time to contact (TTC) is defined as the amount of time that would elapse before the optical center reaches the surface being viewed. This problem can intuitively be thought of as: how much time will pass before the car collides with the wall? On the other hand, the focus of expansion (FOE) will determine the precise location on the image plane that the camera is approaching (i.e., the point that would ultimately collide first). TTC and FOE solutions are critical for many robotic systems since they provide a rough safety control capability, based on continuously avoiding collision with objects around it.
+The time to contact (TTC) is defined as the amount of time that would elapse before the optical center reaches the surface being viewed. This problem can intuitively be thought of as: *how much time will pass before the car collides with the wall?* On the other hand, the focus of expansion (FOE) will determine the precise location on the image plane that the camera is approaching (i.e., *the point that would ultimately collide first*). TTC and FOE solutions are critical for many robotic systems since they provide a rough safety control capability, based on continuously avoiding collision with objects around it.
 
 TimeToContact.jl provides an interface for computing the time to contact to a single focus of exapansion given only two consecutive input images. 
 
